@@ -1,0 +1,968 @@
+{
+  "version": "6.6.0",
+  "total_menu_products": 120,
+  "total_designated_local_product_images": 120,
+  "all_menu_images_webp": true,
+  "mapping": [
+    {
+      "id": 1,
+      "category": "Pizza · Regular",
+      "product": "Pakistani Chicken Tikka Pizza",
+      "asset": "/assets/pizzas/pakistani-chicken-tikka.webp",
+      "format": "webp",
+      "bytes": 182806
+    },
+    {
+      "id": 2,
+      "category": "Pizza · Regular",
+      "product": "Bonfire Pizza",
+      "asset": "/assets/pizzas/bonfire.webp",
+      "format": "webp",
+      "bytes": 205402
+    },
+    {
+      "id": 3,
+      "category": "Pizza · Regular",
+      "product": "Fajita Sicilian Pizza",
+      "asset": "/assets/pizzas/fajita-sicilian.webp",
+      "format": "webp",
+      "bytes": 193338
+    },
+    {
+      "id": 4,
+      "category": "Pizza · Regular",
+      "product": "Chicken Supreme Pizza",
+      "asset": "/assets/pizzas/chicken-supreme.webp",
+      "format": "webp",
+      "bytes": 191380
+    },
+    {
+      "id": 5,
+      "category": "Pizza · Regular",
+      "product": "Cheese Max Pizza",
+      "asset": "/assets/pizzas/cheese-max.webp",
+      "format": "webp",
+      "bytes": 189168
+    },
+    {
+      "id": 6,
+      "category": "Pizza · Regular",
+      "product": "Vegetarian Pizza",
+      "asset": "/assets/pizzas/vegetarian.webp",
+      "format": "webp",
+      "bytes": 186924
+    },
+    {
+      "id": 7,
+      "category": "Pizza · Regular",
+      "product": "BBQ Pizza",
+      "asset": "/assets/pizzas/bbq.webp",
+      "format": "webp",
+      "bytes": 201722
+    },
+    {
+      "id": 8,
+      "category": "Pizza · Regular",
+      "product": "Cheese & Pepperoni Pizza",
+      "asset": "/assets/pizzas/cheese-pepperoni.webp",
+      "format": "webp",
+      "bytes": 192054
+    },
+    {
+      "id": 9,
+      "category": "Pizza · Global",
+      "product": "Grand Café Special Pizza",
+      "asset": "/assets/pizzas/grand-cafe-special.webp",
+      "format": "webp",
+      "bytes": 169786
+    },
+    {
+      "id": 10,
+      "category": "Pizza · Global",
+      "product": "Special Achari Pizza",
+      "asset": "/assets/pizzas/special-achari.webp",
+      "format": "webp",
+      "bytes": 162246
+    },
+    {
+      "id": 11,
+      "category": "Pizza · Global",
+      "product": "Why Not Half & Half",
+      "asset": "/assets/pizzas/why-not-half-half.webp",
+      "format": "webp",
+      "bytes": 193776
+    },
+    {
+      "id": 12,
+      "category": "Pizza · Global",
+      "product": "American Pepperoni Pizza",
+      "asset": "/assets/pizzas/american-pepperoni.webp",
+      "format": "webp",
+      "bytes": 188050
+    },
+    {
+      "id": 13,
+      "category": "Pizza · Global",
+      "product": "Creamy Melt Pizza",
+      "asset": "/assets/pizzas/creamy-melt.webp",
+      "format": "webp",
+      "bytes": 153162
+    },
+    {
+      "id": 14,
+      "category": "Pizza · Global",
+      "product": "Behari Super Kebab Pizza",
+      "asset": "/assets/pizzas/behari-super-kebab.webp",
+      "format": "webp",
+      "bytes": 188426
+    },
+    {
+      "id": 15,
+      "category": "Pizza · Global",
+      "product": "Chicken Crispy Pizza",
+      "asset": "/assets/pizzas/chicken-crispy.webp",
+      "format": "webp",
+      "bytes": 153644
+    },
+    {
+      "id": 16,
+      "category": "Pizza · Premium",
+      "product": "New York Stuffed Crust Pizza",
+      "asset": "/assets/pizzas/new-york-stuffed-crust.webp",
+      "format": "webp",
+      "bytes": 185168
+    },
+    {
+      "id": 17,
+      "category": "Pizza · Premium",
+      "product": "Crown Crust Pizza",
+      "asset": "/assets/pizzas/crown-crust.webp",
+      "format": "webp",
+      "bytes": 172686
+    },
+    {
+      "id": 18,
+      "category": "Pizza · Premium",
+      "product": "Arabic Ranch Crust Pizza",
+      "asset": "/assets/pizzas/arabic-ranch-crust.webp",
+      "format": "webp",
+      "bytes": 188586
+    },
+    {
+      "id": 19,
+      "category": "Pizza · Premium",
+      "product": "Italian Cheese Crust Pizza",
+      "asset": "/assets/pizzas/italian-cheese-crust.webp",
+      "format": "webp",
+      "bytes": 216516
+    },
+    {
+      "id": 20,
+      "category": "Pizza · Premium",
+      "product": "Kebab Tonight Crust Pizza",
+      "asset": "/assets/pizzas/kebab-tonight-crust.webp",
+      "format": "webp",
+      "bytes": 179204
+    },
+    {
+      "id": 21,
+      "category": "Pizza · Premium",
+      "product": "Donut Pizza (New With Fries)",
+      "asset": "/assets/pizzas/donut-pizza.webp",
+      "format": "webp",
+      "bytes": 175492
+    },
+    {
+      "id": 22,
+      "category": "Pizza · Platinum",
+      "product": "Kebab Crown Crust Pizza",
+      "asset": "/assets/pizzas/kebab-crown-crust.webp",
+      "format": "webp",
+      "bytes": 189952
+    },
+    {
+      "id": 23,
+      "category": "Pizza · Platinum",
+      "product": "Toronto Pizza (NEW)",
+      "asset": "/assets/pizzas/toronto.webp",
+      "format": "webp",
+      "bytes": 164202
+    },
+    {
+      "id": 24,
+      "category": "Pizza · Platinum",
+      "product": "Kebab Twister Pizza",
+      "asset": "/assets/pizzas/kebab-twister.webp",
+      "format": "webp",
+      "bytes": 173240
+    },
+    {
+      "id": 25,
+      "category": "Burgers",
+      "product": "Special Supreme Burger",
+      "asset": "/assets/products/burgers/special-supreme-burger.webp",
+      "format": "webp",
+      "bytes": 103020
+    },
+    {
+      "id": 26,
+      "category": "Burgers",
+      "product": "Signature Grilled Burger (With Fries)",
+      "asset": "/assets/products/burgers/signature-grilled-burger-with-fries.webp",
+      "format": "webp",
+      "bytes": 85092
+    },
+    {
+      "id": 27,
+      "category": "Burgers",
+      "product": "Mighty Double Xtreme",
+      "asset": "/assets/products/burgers/mighty-double-xtreme.webp",
+      "format": "webp",
+      "bytes": 109880
+    },
+    {
+      "id": 28,
+      "category": "Burgers",
+      "product": "Zinger with Cheese",
+      "asset": "/assets/products/burgers/zinger-with-cheese.webp",
+      "format": "webp",
+      "bytes": 93114
+    },
+    {
+      "id": 29,
+      "category": "Burgers",
+      "product": "Zinger Burger",
+      "asset": "/assets/products/burgers/zinger-burger.webp",
+      "format": "webp",
+      "bytes": 86588
+    },
+    {
+      "id": 30,
+      "category": "Burgers",
+      "product": "Patty Value Burger",
+      "asset": "/assets/products/burgers/patty-value-burger.webp",
+      "format": "webp",
+      "bytes": 66668
+    },
+    {
+      "id": 31,
+      "category": "Burgers",
+      "product": "Chapli Burger",
+      "asset": "/assets/products/burgers/chapli-burger.webp",
+      "format": "webp",
+      "bytes": 101848
+    },
+    {
+      "id": 32,
+      "category": "Roll & Wings",
+      "product": "Oven Baked Wings",
+      "asset": "/assets/products/wings-rolls/oven-baked-wings.webp",
+      "format": "webp",
+      "bytes": 121674
+    },
+    {
+      "id": 33,
+      "category": "Roll & Wings",
+      "product": "Crispy Hot Wings",
+      "asset": "/assets/products/wings-rolls/crispy-hot-wings.webp",
+      "format": "webp",
+      "bytes": 121674
+    },
+    {
+      "id": 34,
+      "category": "Roll & Wings",
+      "product": "BBQ Wings",
+      "asset": "/assets/products/wings-rolls/bbq-wings.webp",
+      "format": "webp",
+      "bytes": 131016
+    },
+    {
+      "id": 35,
+      "category": "Roll & Wings",
+      "product": "Stuffer Spring Roll (4 Pcs)",
+      "asset": "/assets/products/wings-rolls/stuffer-spring-roll.webp",
+      "format": "webp",
+      "bytes": 101196
+    },
+    {
+      "id": 36,
+      "category": "Roll & Wings",
+      "product": "Chicken Kebab Roll (4 Pcs)",
+      "asset": "/assets/products/wings-rolls/chicken-kebab-roll.webp",
+      "format": "webp",
+      "bytes": 112804
+    },
+    {
+      "id": 37,
+      "category": "Roll & Wings",
+      "product": "Chicken Crispy Roll (4 Pcs)",
+      "asset": "/assets/products/wings-rolls/chicken-crispy-roll.webp",
+      "format": "webp",
+      "bytes": 99028
+    },
+    {
+      "id": 38,
+      "category": "Roll & Wings",
+      "product": "Tortilla Roll (4 Pcs)",
+      "asset": "/assets/products/wings-rolls/tortilla-roll.webp",
+      "format": "webp",
+      "bytes": 108052
+    },
+    {
+      "id": 39,
+      "category": "Roll & Wings",
+      "product": "Grand Café Special Platter",
+      "asset": "/assets/products/wings-rolls/grand-cafe-special-platter.webp",
+      "format": "webp",
+      "bytes": 177824
+    },
+    {
+      "id": 40,
+      "category": "Roll & Wings",
+      "product": "Tortilla Special Platter",
+      "asset": "/assets/products/wings-rolls/tortilla-special-platter.webp",
+      "format": "webp",
+      "bytes": 136436
+    },
+    {
+      "id": 41,
+      "category": "Pasta",
+      "product": "Creamy Pasta",
+      "asset": "/assets/products/pasta/creamy-pasta.webp",
+      "format": "webp",
+      "bytes": 98290
+    },
+    {
+      "id": 42,
+      "category": "Pasta",
+      "product": "Crispy Pasta",
+      "asset": "/assets/products/pasta/crispy-pasta.webp",
+      "format": "webp",
+      "bytes": 103540
+    },
+    {
+      "id": 43,
+      "category": "Sandwich",
+      "product": "Grand Café Sp Sandwich",
+      "asset": "/assets/products/sandwiches/grand-cafe-sp-sandwich.webp",
+      "format": "webp",
+      "bytes": 88602
+    },
+    {
+      "id": 44,
+      "category": "Sandwich",
+      "product": "Chicken Kebab Sandwich",
+      "asset": "/assets/products/sandwiches/chicken-kebab-sandwich.webp",
+      "format": "webp",
+      "bytes": 98900
+    },
+    {
+      "id": 45,
+      "category": "Sandwich",
+      "product": "Chicken Crispy Sandwich",
+      "asset": "/assets/products/sandwiches/chicken-crispy-sandwich.webp",
+      "format": "webp",
+      "bytes": 116360
+    },
+    {
+      "id": 46,
+      "category": "Sandwich",
+      "product": "Grilled Steak Sandwich",
+      "asset": "/assets/products/sandwiches/grilled-steak-sandwich.webp",
+      "format": "webp",
+      "bytes": 132828
+    },
+    {
+      "id": 47,
+      "category": "Chicken & Fries",
+      "product": "Baked Potato Veggies",
+      "asset": "/assets/products/chicken-fries/baked-potato-veggies.webp",
+      "format": "webp",
+      "bytes": 132694
+    },
+    {
+      "id": 48,
+      "category": "Chicken & Fries",
+      "product": "Curly Fries",
+      "asset": "/assets/products/chicken-fries/curly-fries.webp",
+      "format": "webp",
+      "bytes": 124032
+    },
+    {
+      "id": 49,
+      "category": "Chicken & Fries",
+      "product": "Waffle Fries",
+      "asset": "/assets/products/chicken-fries/waffle-fries.webp",
+      "format": "webp",
+      "bytes": 105050
+    },
+    {
+      "id": 50,
+      "category": "Chicken & Fries",
+      "product": "Plain Fries",
+      "asset": "/assets/products/chicken-fries/plain-fries.webp",
+      "format": "webp",
+      "bytes": 90118
+    },
+    {
+      "id": 51,
+      "category": "Chicken & Fries",
+      "product": "Masala Fries",
+      "asset": "/assets/products/chicken-fries/masala-fries.webp",
+      "format": "webp",
+      "bytes": 111260
+    },
+    {
+      "id": 52,
+      "category": "Chicken & Fries",
+      "product": "Mayo Fries",
+      "asset": "/assets/products/chicken-fries/mayo-fries.webp",
+      "format": "webp",
+      "bytes": 93196
+    },
+    {
+      "id": 53,
+      "category": "Chicken & Fries",
+      "product": "Pizza Fries",
+      "asset": "/assets/products/chicken-fries/pizza-fries.webp",
+      "format": "webp",
+      "bytes": 139430
+    },
+    {
+      "id": 54,
+      "category": "Chicken & Fries",
+      "product": "Loaded Fries",
+      "asset": "/assets/products/chicken-fries/loaded-fries.webp",
+      "format": "webp",
+      "bytes": 117628
+    },
+    {
+      "id": 55,
+      "category": "Chicken & Fries",
+      "product": "Nuggets",
+      "asset": "/assets/products/chicken-fries/nuggets.webp",
+      "format": "webp",
+      "bytes": 117036
+    },
+    {
+      "id": 56,
+      "category": "Chicken & Fries",
+      "product": "Crispy Poppers",
+      "asset": "/assets/products/chicken-fries/crispy-poppers.webp",
+      "format": "webp",
+      "bytes": 129010
+    },
+    {
+      "id": 57,
+      "category": "Wraps & Pocket",
+      "product": "Mexican Wrap",
+      "asset": "/assets/products/wraps-pocket/mexican-wrap.webp",
+      "format": "webp",
+      "bytes": 136436
+    },
+    {
+      "id": 58,
+      "category": "Wraps & Pocket",
+      "product": "Trio Wrap",
+      "asset": "/assets/products/wraps-pocket/trio-wrap.webp",
+      "format": "webp",
+      "bytes": 112804
+    },
+    {
+      "id": 59,
+      "category": "Wraps & Pocket",
+      "product": "Chicken Crispy Wrap",
+      "asset": "/assets/products/wraps-pocket/chicken-crispy-wrap.webp",
+      "format": "webp",
+      "bytes": 99028
+    },
+    {
+      "id": 60,
+      "category": "Wraps & Pocket",
+      "product": "Chicken Grilled Wrap",
+      "asset": "/assets/products/wraps-pocket/chicken-grilled-wrap.webp",
+      "format": "webp",
+      "bytes": 108052
+    },
+    {
+      "id": 61,
+      "category": "Wraps & Pocket",
+      "product": "Cheesy Pocket",
+      "asset": "/assets/products/wraps-pocket/cheesy-pocket.webp",
+      "format": "webp",
+      "bytes": 192508
+    },
+    {
+      "id": 62,
+      "category": "Wraps & Pocket",
+      "product": "Crispy Pocket",
+      "asset": "/assets/products/wraps-pocket/crispy-pocket.webp",
+      "format": "webp",
+      "bytes": 101196
+    },
+    {
+      "id": 63,
+      "category": "Wraps & Pocket",
+      "product": "Pizza Pocket",
+      "asset": "/assets/products/wraps-pocket/pizza-pocket.webp",
+      "format": "webp",
+      "bytes": 197476
+    },
+    {
+      "id": 64,
+      "category": "Hot Deals",
+      "product": "Student Deal 1",
+      "asset": "/assets/products/hot-deals/student-deal-1.webp",
+      "format": "webp",
+      "bytes": 128334
+    },
+    {
+      "id": 65,
+      "category": "Hot Deals",
+      "product": "Student Deal 2",
+      "asset": "/assets/products/hot-deals/student-deal-2.webp",
+      "format": "webp",
+      "bytes": 148104
+    },
+    {
+      "id": 66,
+      "category": "Hot Deals",
+      "product": "Student Deal 3",
+      "asset": "/assets/products/hot-deals/student-deal-3.webp",
+      "format": "webp",
+      "bytes": 119914
+    },
+    {
+      "id": 67,
+      "category": "Hot Deals",
+      "product": "Two Times The Fun",
+      "asset": "/assets/products/hot-deals/two-times-the-fun.webp",
+      "format": "webp",
+      "bytes": 170812
+    },
+    {
+      "id": 68,
+      "category": "Hot Deals",
+      "product": "Family Special",
+      "asset": "/assets/products/hot-deals/family-special.webp",
+      "format": "webp",
+      "bytes": 171736
+    },
+    {
+      "id": 69,
+      "category": "Hot Deals",
+      "product": "Birthday Special",
+      "asset": "/assets/products/hot-deals/birthday-special.webp",
+      "format": "webp",
+      "bytes": 167638
+    },
+    {
+      "id": 70,
+      "category": "Coffee",
+      "product": "Café Latte",
+      "asset": "/assets/products/coffee/cafe-latte.webp",
+      "format": "webp",
+      "bytes": 59514
+    },
+    {
+      "id": 71,
+      "category": "Coffee",
+      "product": "Cappuccino",
+      "asset": "/assets/products/coffee/cappuccino.webp",
+      "format": "webp",
+      "bytes": 71954
+    },
+    {
+      "id": 72,
+      "category": "Coffee",
+      "product": "Vanilla Latte",
+      "asset": "/assets/products/coffee/vanilla-latte.webp",
+      "format": "webp",
+      "bytes": 71138
+    },
+    {
+      "id": 73,
+      "category": "Coffee",
+      "product": "Caramel Latte",
+      "asset": "/assets/products/coffee/caramel-latte.webp",
+      "format": "webp",
+      "bytes": 66672
+    },
+    {
+      "id": 74,
+      "category": "Coffee",
+      "product": "Espresso (Single Shot)",
+      "asset": "/assets/products/coffee/espresso-single-shot.webp",
+      "format": "webp",
+      "bytes": 61114
+    },
+    {
+      "id": 75,
+      "category": "Coffee",
+      "product": "Espresso (Double Shot)",
+      "asset": "/assets/products/coffee/espresso-double-shot.webp",
+      "format": "webp",
+      "bytes": 80520
+    },
+    {
+      "id": 76,
+      "category": "Coffee",
+      "product": "Americano",
+      "asset": "/assets/products/coffee/americano.webp",
+      "format": "webp",
+      "bytes": 50874
+    },
+    {
+      "id": 77,
+      "category": "Coffee",
+      "product": "Iced Coffee",
+      "asset": "/assets/products/coffee/iced-coffee.webp",
+      "format": "webp",
+      "bytes": 73180
+    },
+    {
+      "id": 78,
+      "category": "Coffee",
+      "product": "Hot Chocolate",
+      "asset": "/assets/products/coffee/hot-chocolate.webp",
+      "format": "webp",
+      "bytes": 64556
+    },
+    {
+      "id": 79,
+      "category": "Cold Coffee",
+      "product": "Caramel Cold Coffee",
+      "asset": "/assets/products/cold-coffee/caramel-cold-coffee.webp",
+      "format": "webp",
+      "bytes": 91480
+    },
+    {
+      "id": 80,
+      "category": "Cold Coffee",
+      "product": "Vanilla Cold Coffee",
+      "asset": "/assets/products/cold-coffee/vanilla-cold-coffee.webp",
+      "format": "webp",
+      "bytes": 85056
+    },
+    {
+      "id": 81,
+      "category": "Cold Coffee",
+      "product": "Oreo Cold Coffee",
+      "asset": "/assets/products/cold-coffee/oreo-cold-coffee.webp",
+      "format": "webp",
+      "bytes": 75480
+    },
+    {
+      "id": 82,
+      "category": "Cold Coffee",
+      "product": "Chocolate Cold Coffee",
+      "asset": "/assets/products/cold-coffee/chocolate-cold-coffee.webp",
+      "format": "webp",
+      "bytes": 95824
+    },
+    {
+      "id": 83,
+      "category": "Tea",
+      "product": "Karak Tea",
+      "asset": "/assets/products/tea/karak-tea.webp",
+      "format": "webp",
+      "bytes": 67194
+    },
+    {
+      "id": 84,
+      "category": "Tea",
+      "product": "Kashmiri Tea",
+      "asset": "/assets/products/tea/kashmiri-tea.webp",
+      "format": "webp",
+      "bytes": 100740
+    },
+    {
+      "id": 85,
+      "category": "Ice Cream Shake",
+      "product": "Chocolate Shake",
+      "asset": "/assets/products/ice-cream-shakes/chocolate-shake.webp",
+      "format": "webp",
+      "bytes": 78154
+    },
+    {
+      "id": 86,
+      "category": "Ice Cream Shake",
+      "product": "Mango Shake",
+      "asset": "/assets/products/ice-cream-shakes/mango-shake.webp",
+      "format": "webp",
+      "bytes": 62702
+    },
+    {
+      "id": 87,
+      "category": "Ice Cream Shake",
+      "product": "Strawberry Shake",
+      "asset": "/assets/products/ice-cream-shakes/strawberry-shake.webp",
+      "format": "webp",
+      "bytes": 81978
+    },
+    {
+      "id": 88,
+      "category": "Ice Cream Shake",
+      "product": "Date & Kulfa Shake",
+      "asset": "/assets/products/ice-cream-shakes/date-and-kulfa-shake.webp",
+      "format": "webp",
+      "bytes": 83952
+    },
+    {
+      "id": 89,
+      "category": "Ice Cream Shake",
+      "product": "Oreo Shake",
+      "asset": "/assets/products/ice-cream-shakes/oreo-shake.webp",
+      "format": "webp",
+      "bytes": 94080
+    },
+    {
+      "id": 90,
+      "category": "Ice Cream Shake",
+      "product": "Vanilla Shake",
+      "asset": "/assets/products/ice-cream-shakes/vanilla-shake.webp",
+      "format": "webp",
+      "bytes": 67764
+    },
+    {
+      "id": 91,
+      "category": "Ice Cream Shake",
+      "product": "Caramel Shake",
+      "asset": "/assets/products/ice-cream-shakes/caramel-shake.webp",
+      "format": "webp",
+      "bytes": 76402
+    },
+    {
+      "id": 92,
+      "category": "Margarita",
+      "product": "Mint Margarita",
+      "asset": "/assets/products/margaritas/mint-margarita.webp",
+      "format": "webp",
+      "bytes": 71996
+    },
+    {
+      "id": 93,
+      "category": "Margarita",
+      "product": "Blue Berry Margarita",
+      "asset": "/assets/products/margaritas/blue-berry-margarita.webp",
+      "format": "webp",
+      "bytes": 97900
+    },
+    {
+      "id": 94,
+      "category": "Margarita",
+      "product": "Strawberry Margarita",
+      "asset": "/assets/products/margaritas/strawberry-margarita.webp",
+      "format": "webp",
+      "bytes": 101308
+    },
+    {
+      "id": 95,
+      "category": "Margarita",
+      "product": "Double Berry Margarita",
+      "asset": "/assets/products/margaritas/double-berry-margarita.webp",
+      "format": "webp",
+      "bytes": 79838
+    },
+    {
+      "id": 96,
+      "category": "Margarita",
+      "product": "Peach Margarita",
+      "asset": "/assets/products/margaritas/peach-margarita.webp",
+      "format": "webp",
+      "bytes": 71886
+    },
+    {
+      "id": 97,
+      "category": "Mocktail",
+      "product": "Electric Shock",
+      "asset": "/assets/products/mocktails/electric-shock.webp",
+      "format": "webp",
+      "bytes": 81262
+    },
+    {
+      "id": 98,
+      "category": "Mocktail",
+      "product": "Strawberry Refresher",
+      "asset": "/assets/products/mocktails/strawberry-refresher.webp",
+      "format": "webp",
+      "bytes": 85572
+    },
+    {
+      "id": 99,
+      "category": "Mocktail",
+      "product": "Bubble Mint",
+      "asset": "/assets/products/mocktails/bubble-mint.webp",
+      "format": "webp",
+      "bytes": 80312
+    },
+    {
+      "id": 100,
+      "category": "Mocktail",
+      "product": "Fresh Lime",
+      "asset": "/assets/products/mocktails/fresh-lime.webp",
+      "format": "webp",
+      "bytes": 76902
+    },
+    {
+      "id": 101,
+      "category": "Mocktail",
+      "product": "Citrus Apple",
+      "asset": "/assets/products/mocktails/citrus-apple.webp",
+      "format": "webp",
+      "bytes": 82848
+    },
+    {
+      "id": 102,
+      "category": "Mocktail",
+      "product": "My Passion",
+      "asset": "/assets/products/mocktails/my-passion.webp",
+      "format": "webp",
+      "bytes": 78036
+    },
+    {
+      "id": 103,
+      "category": "Special Shake",
+      "product": "Lotus Shake",
+      "asset": "/assets/products/special-shakes/lotus-shake.webp",
+      "format": "webp",
+      "bytes": 72660
+    },
+    {
+      "id": 104,
+      "category": "Special Shake",
+      "product": "Bounty Shake",
+      "asset": "/assets/products/special-shakes/bounty-shake.webp",
+      "format": "webp",
+      "bytes": 78574
+    },
+    {
+      "id": 105,
+      "category": "Special Shake",
+      "product": "Nutella Shake",
+      "asset": "/assets/products/special-shakes/nutella-shake.webp",
+      "format": "webp",
+      "bytes": 76534
+    },
+    {
+      "id": 106,
+      "category": "Special Shake",
+      "product": "Kit Kat Shake",
+      "asset": "/assets/products/special-shakes/kit-kat-shake.webp",
+      "format": "webp",
+      "bytes": 83242
+    },
+    {
+      "id": 107,
+      "category": "Special Shake",
+      "product": "Double Chocolate Shake",
+      "asset": "/assets/products/special-shakes/double-chocolate-shake.webp",
+      "format": "webp",
+      "bytes": 79414
+    },
+    {
+      "id": 108,
+      "category": "Special Shake",
+      "product": "Heaven Shake",
+      "asset": "/assets/products/special-shakes/heaven-shake.webp",
+      "format": "webp",
+      "bytes": 87738
+    },
+    {
+      "id": 109,
+      "category": "Drinks",
+      "product": "500 ML Drink",
+      "asset": "/assets/products/soft-drinks/500-ml-drink.webp",
+      "format": "webp",
+      "bytes": 102520
+    },
+    {
+      "id": 110,
+      "category": "Drinks",
+      "product": "Can",
+      "asset": "/assets/products/soft-drinks/can.webp",
+      "format": "webp",
+      "bytes": 108626
+    },
+    {
+      "id": 111,
+      "category": "Drinks",
+      "product": "1 Litre Drink",
+      "asset": "/assets/products/soft-drinks/1-litre-drink.webp",
+      "format": "webp",
+      "bytes": 87626
+    },
+    {
+      "id": 112,
+      "category": "Drinks",
+      "product": "1.5 Litres Drink",
+      "asset": "/assets/products/soft-drinks/1-5-litres-drink.webp",
+      "format": "webp",
+      "bytes": 83696
+    },
+    {
+      "id": 113,
+      "category": "Drinks",
+      "product": "Small Water Bottle",
+      "asset": "/assets/products/water/small-water-bottle.webp",
+      "format": "webp",
+      "bytes": 68374
+    },
+    {
+      "id": 114,
+      "category": "Drinks",
+      "product": "Large Water Bottle",
+      "asset": "/assets/products/water/large-water-bottle.webp",
+      "format": "webp",
+      "bytes": 71988
+    },
+    {
+      "id": 115,
+      "category": "Desserts",
+      "product": "Chocolate Icecream",
+      "asset": "/assets/products/desserts/chocolate-icecream.webp",
+      "format": "webp",
+      "bytes": 130492
+    },
+    {
+      "id": 116,
+      "category": "Desserts",
+      "product": "Strawberry Icecream",
+      "asset": "/assets/products/desserts/strawberry-icecream.webp",
+      "format": "webp",
+      "bytes": 96912
+    },
+    {
+      "id": 117,
+      "category": "Desserts",
+      "product": "Kulfa Icecream",
+      "asset": "/assets/products/desserts/kulfa-icecream.webp",
+      "format": "webp",
+      "bytes": 92368
+    },
+    {
+      "id": 118,
+      "category": "Desserts",
+      "product": "Tutti Frutti Icecream",
+      "asset": "/assets/products/desserts/tutti-frutti-icecream.webp",
+      "format": "webp",
+      "bytes": 175524
+    },
+    {
+      "id": 119,
+      "category": "Desserts",
+      "product": "Mango Icecream",
+      "asset": "/assets/products/desserts/mango-icecream.webp",
+      "format": "webp",
+      "bytes": 66494
+    },
+    {
+      "id": 120,
+      "category": "Desserts",
+      "product": "Vanilla Icecream",
+      "asset": "/assets/products/desserts/vanilla-icecream.webp",
+      "format": "webp",
+      "bytes": 127058
+    }
+  ]
+}

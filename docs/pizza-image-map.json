@@ -1,0 +1,98 @@
+[
+  {
+    "product": "Pakistani Chicken Tikka Pizza",
+    "image": "/assets/pizzas/pakistani-chicken-tikka.webp"
+  },
+  {
+    "product": "Bonfire Pizza",
+    "image": "/assets/pizzas/bonfire.webp"
+  },
+  {
+    "product": "Fajita Sicilian Pizza",
+    "image": "/assets/pizzas/fajita-sicilian.webp"
+  },
+  {
+    "product": "Chicken Supreme Pizza",
+    "image": "/assets/pizzas/chicken-supreme.webp"
+  },
+  {
+    "product": "Cheese Max Pizza",
+    "image": "/assets/pizzas/cheese-max.webp"
+  },
+  {
+    "product": "Vegetarian Pizza",
+    "image": "/assets/pizzas/vegetarian.webp"
+  },
+  {
+    "product": "BBQ Pizza",
+    "image": "/assets/pizzas/bbq.webp"
+  },
+  {
+    "product": "Cheese & Pepperoni Pizza",
+    "image": "/assets/pizzas/cheese-pepperoni.webp"
+  },
+  {
+    "product": "Grand Café Special Pizza",
+    "image": "/assets/pizzas/grand-cafe-special.webp"
+  },
+  {
+    "product": "Special Achari Pizza",
+    "image": "/assets/pizzas/special-achari.webp"
+  },
+  {
+    "product": "Why Not Half & Half",
+    "image": "/assets/pizzas/why-not-half-half.webp"
+  },
+  {
+    "product": "American Pepperoni Pizza",
+    "image": "/assets/pizzas/american-pepperoni.webp"
+  },
+  {
+    "product": "Creamy Melt Pizza",
+    "image": "/assets/pizzas/creamy-melt.webp"
+  },
+  {
+    "product": "Behari Super Kebab Pizza",
+    "image": "/assets/pizzas/behari-super-kebab.webp"
+  },
+  {
+    "product": "Chicken Crispy Pizza",
+    "image": "/assets/pizzas/chicken-crispy.webp"
+  },
+  {
+    "product": "New York Stuffed Crust Pizza",
+    "image": "/assets/pizzas/new-york-stuffed-crust.webp"
+  },
+  {
+    "product": "Crown Crust Pizza",
+    "image": "/assets/pizzas/crown-crust.webp"
+  },
+  {
+    "product": "Arabic Ranch Crust Pizza",
+    "image": "/assets/pizzas/arabic-ranch-crust.webp"
+  },
+  {
+    "product": "Italian Cheese Crust Pizza",
+    "image": "/assets/pizzas/italian-cheese-crust.webp"
+  },
+  {
+    "product": "Kebab Tonight Crust Pizza",
+    "image": "/assets/pizzas/kebab-tonight-crust.webp"
+  },
+  {
+    "product": "Donut Pizza (New With Fries)",
+    "image": "/assets/pizzas/donut-pizza.webp"
+  },
+  {
+    "product": "Kebab Crown Crust Pizza",
+    "image": "/assets/pizzas/kebab-crown-crust.webp"
+  },
+  {
+    "product": "Toronto Pizza (NEW)",
+    "image": "/assets/pizzas/toronto.webp"
+  },
+  {
+    "product": "Kebab Twister Pizza",
+    "image": "/assets/pizzas/kebab-twister.webp"
+  }
+]

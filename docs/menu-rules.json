@@ -1,0 +1,54 @@
+{
+  "source": "Grand Cafe Gujrat.pdf",
+  "menu_version": "grand-cafe-pdf-2026-09-v1",
+  "official_item_count": 120,
+  "pizza_prices": {
+    "Regular": {
+      "S 7\"": 599,
+      "M 10\"": 1149,
+      "L 13\"": 1649,
+      "F 16\"": 2449
+    },
+    "Global": {
+      "M 10\"": 1199,
+      "L 13\"": 1699,
+      "F 16\"": 2549
+    },
+    "Premium": {
+      "M 10\"": 1399,
+      "L 13\"": 1999,
+      "F 16\"": 2749
+    },
+    "Platinum": {
+      "M 10\"": 1449,
+      "L 13\"": 2099,
+      "F 16\"": 2849
+    }
+  },
+  "extras": {
+    "regular_extra_topping": {
+      "S 7\"": 100,
+      "M 10\"": 150,
+      "L 13\"": 200,
+      "F 16\"": 250
+    },
+    "global_premium_extra_topping": {
+      "M 10\"": 150,
+      "L 13\"": 200,
+      "F 16\"": 250
+    },
+    "pizza_extra_dip_sauce": 100,
+    "drinks": {
+      "500 ML Drink": 139,
+      "Can": 139,
+      "1 Litre Drink": 199,
+      "1.5 Litres Drink": 239,
+      "Small Water Bottle": 79,
+      "Large Water Bottle": 119
+    }
+  },
+  "contact": {
+    "phone": "+92 324 7882222",
+    "address": "Jinnah Road, Gujrat"
+  }
+}
